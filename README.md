@@ -2,6 +2,11 @@
 
 Simple API that returns example records from a database.
 
+## Group
+* Pierre SENECHAL
+* Nils TALLEUX
+* Benoît WATTINNE
+
 ## Prerequisites
 
 - you need to install [uv](https://docs.astral.sh/uv/guides/install-python/)
