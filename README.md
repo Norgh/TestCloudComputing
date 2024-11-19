@@ -9,7 +9,10 @@ Simple API that returns example records from a database.
 
 ## Prerequisites
 
-- you need to install [uv](https://docs.astral.sh/uv/guides/install-python/)
+You need to install:
+- [Azure Cli](https://learn.microsoft.com/fr-fr/cli/azure/install-azure-cli-windows)
+- [Terraform](https://developer.hashicorp.com/terraform/install)
+- [uv](https://docs.astral.sh/uv/guides/install-python/)
 - you must have a PostgreSQL instance available with an `example` table
 
 ## Installation
