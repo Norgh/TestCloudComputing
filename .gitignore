@@ -7,7 +7,15 @@ __pycache__/
 *.so
 
 # Terraform
-terraform.tfvars
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+*.tfplan
+*.tfvars
+*.tfvars.json
+*.log
 
 # Distribution / packaging
 .Python
